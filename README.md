@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ 19<br>📚 Student<br>📍 Italy
+⚡ · 19<br>📚 · Student<br>📌 · Italy
 
 
 # 💻 Tech Stack:
